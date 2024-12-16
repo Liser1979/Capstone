@@ -10,16 +10,17 @@ Hipótesis 2: (Aquí puedes incluir la segunda hipótesis).
 Hipotesis 1 y 2.ipynb: Notebook en Jupyter que contiene el código, análisis y resultados del proyecto.
 Base de Datos:
 La base de datos se encuentra disponible en el siguiente enlace de Google Drive:
-Base de datos Chiloe Full.xlsx
+https://drive.google.com/drive/folders/1dAcJq0f5qYvw3y3zNdPcBJhVtJXgZnd6?q=sharedwith:public%20parent:1dAcJq0f5qYvw3y3zNdPcBJhVtJXgZnd6
+
 
 
 # Herramientas Utilizadas
-Python: Lenguaje de programación principal.
-Pandas: Manejo y análisis de datos.
-Geopy: Cálculo de distancias geográficas.
-NetworkX: Análisis de grafos.
-Matplotlib: Visualización de resultados.
-Scipy: Herramientas estadísticas.
+#### Python: Lenguaje de programación principal.
+#### Pandas: Manejo y análisis de datos.
+#### Geopy: Cálculo de distancias geográficas.
+#### NetworkX: Análisis de grafos.
+#### Matplotlib: Visualización de resultados.
+#### Scipy: Herramientas estadísticas.
 
 # Estructura del Proyecto
 ### Cálculo de Distancias: Se utilizan coordenadas geográficas para medir las distancias entre atracciones turísticas.
