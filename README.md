@@ -7,9 +7,9 @@ Hipótesis 1: La proximidad geográfica tiene un efecto positivo en la frecuenci
 Hipótesis 2: (Aquí puedes incluir la segunda hipótesis).
 
 # Archivos Incluidos
-Hipotesis 1 y 2.ipynb: Notebook en Jupyter que contiene el código, análisis y resultados del proyecto.
+#### Hipotesis 1 y 2.ipynb: Notebook en Jupyter que contiene el código, análisis y resultados del proyecto.
 Base de Datos:
-La base de datos se encuentra disponible en el siguiente enlace de Google Drive:
+#### La base de datos se encuentra disponible en el siguiente enlace de Google Drive:
 https://drive.google.com/drive/folders/1dAcJq0f5qYvw3y3zNdPcBJhVtJXgZnd6?q=sharedwith:public%20parent:1dAcJq0f5qYvw3y3zNdPcBJhVtJXgZnd6
 
 
